@@ -1,0 +1,188 @@
+Q: What is NLPAssist+?
+A: NLPAssist+ is a system designed to help students and faculty by answering natural language questions about university courses, documents, and FAQs.
+
+Q: How does NLPAssist+ work?
+A: It uses a Retrieval-Augmented Generation (RAG) approach. It retrieves relevant information from a document collection and uses a Large Language Model (LLM) to generate an answer.
+
+Q: What are the components of NLPAssist+?
+A: It consists of a backend NLP service (Python) handling document ingestion, embeddings, and retrieval, and a frontend application (Web or Mobile) for user interaction.
+
+Q: What is the due date for the project?
+A: The due date is the Last Class.
+
+Q: What is the total marks for this project?
+A: The total marks are 11.
+
+Q: Which CLOs are mapped to this project?
+A: CLO3 is mapped to this project.
+
+Q: What technology is recommended for the backend?
+A: Python (FastAPI or Flask) is recommended for the backend.
+
+Q: What technology is recommended for the frontend?
+A: React, Next.js, or Laravel for web; React Native for mobile.
+
+Q: Can I use LangChain?
+A: LangChain is optional. You are encouraged to understand the steps without it, but you may use it if you prefer.
+
+Q: What should I use for vector storage?
+A: You can use FAISS for local development or detailed vector databases like ChromaDB or Qdrant.
+
+Q: Is security important?
+A: Yes, you must not expose API keys in the frontend and implement basic request validation.
+
+Q: What are the conflicting requirements in WP1?
+A: Students must balance accuracy vs speed, local resources vs model size, and security vs usability.
+ 
+Q: How do I apply for admission? 
+A: You can apply online through the university portal by dragging the 'Admissions' tab and filling out the application form. 
+ 
+Q: What are the library opening hours? 
+A: The main library is open from 8:00 AM to 10:00 PM on weekdays and 9:00 AM to 5:00 PM on weekends. 
+ 
+Q: How can I reset my student portal password? 
+A: Visit the IT Helpdesk website and click on 'Forgot Password'. You will need your student ID and registered email. 
+ 
+Q: Where is the student cafeteria located? 
+A: The main cafeteria is located on the ground floor of Building B, near the central courtyard. 
+ 
+Q: What is the minimum attendance requirement? 
+A: Students are required to maintain a minimum of 75% attendance in all courses to be eligible for final exams. 
+ 
+Q: How do I get a student ID card? 
+A: Visit the Student Affairs office in the Admin Block with your admission letter and a passport-sized photograph. 
+ 
+Q: How do I register for courses? 
+A: Course registration is done online via the student portal during the first week of the semester.
+
+Q: What happens if I miss a deadline for an assignment? 
+A: Late submissions are generally penalized. Check your course outline or contact your instructor for specific policies.
+
+Q: Can I change my major? 
+A: Yes, you can apply for a change of major after the first semester, provided you meet the GPA requirements of the target department.
+
+Q: Is there a gym on campus? 
+A: Yes, the university gym is located in the Sports Complex and is free for all registered students.
+
+Q: How do I access the campus Wi-Fi? 
+A: Use your student ID and password to log in to the 'Uni-Secure' network available across campus.
+
+Q: What are the parking rules? 
+A: Students must obtain a parking sticker from the security office to park in designated student parking areas.
+
+Q: How do I check my grades? 
+A: Grades are posted on the student portal under the 'Academic History' or 'Gradebook' section.
+
+Q: Is there a health center on campus? 
+A: Yes, the University Health Center provides basic medical assistance and is located near the hostels.
+
+Q: How can I join a student club? 
+A: You can sign up for clubs during the 'Club Fair' week or contact the Student Council for a list of active societies.
+
+Q: What is the procedure for freezing a semester? 
+A: Submit a written application to the Registrar's office stating the reason. Fees may apply.
+
+Q: How do I report harassment or bullying? 
+A: The university has a zero-tolerance policy. Report incidents immediately to the Student Affairs office or via the anonymous online reporting tool.
+
+Q: Are guests allowed in the hostels? 
+A: Guests are allowed only in the visitor's lounge during visiting hours (4:00 PM - 8:00 PM). Overnight stays are not permitted.
+
+Q: How do I get an official transcript? 
+A: Apply for a transcript through the Controller of Examinations office. Processing usually takes 5-7 working days.
+
+Q: What constitutes academic dishonesty? 
+A: Plagiarism, cheating in exams, and falsifying data are considered academic dishonesty and can lead to suspension.
+
+Q: Can I use the computer labs after classes? 
+A: Yes, general-purpose computer labs are open until 8:00 PM for student use.
+
+Q: How do I pay my tuition fees? 
+A: Fees can be paid via bank challan at designated branches or through online banking apps linked with the university.
+
+Q: What is the grading scale? 
+A: The university follows a 4.0 GPA scale. A is 4.0, B is 3.0, C is 2.0, and D is 1.0. F is 0.0.
+
+Q: Are internships mandatory? 
+A: For most degree programs, a 6-week summer internship is mandatory for graduation.
+
+Q: How do I book a study room in the library? 
+A: You can book a study room online through the library's website up to 24 hours in advance.
+
+Q: What is the policy on mobile phones in class? 
+A: Mobile phones must be on silent mode. Using them during lectures without permission is prohibited.
+
+Q: Is there a shuttle service? 
+A: Yes, university shuttles ply on specific routes morning and evening. Route maps are available at the transport office.
+
+Q: How do I contact my academic advisor? 
+A: Your advisor's email and office hours are listed on your profile in the student portal.
+
+Q: What happens if I fail a course? 
+A: You must retake the course when it is offered next. Both grades will appear on the transcript, but the new grade calculates into GPA.
+
+Q: Can I drop a course? 
+A: You can drop a course within the first two weeks without penalty. Afterward, a 'W' (Withdrawn) grade will appear.
+
+Q: Is smoking allowed on campus? 
+A: The university is a smoke-free zone. Smoking is strictly prohibited within campus premises.
+
+Q: How do I submit a complaint about a faculty member? 
+A: You can submit a formal complaint to the Head of Department (HoD) or use the feedback forms at the end of the semester.
+
+Q: What are the lab safety rules? 
+A: Lab coats and safety goggles are mandatory in chemistry and biology labs. Food and drink are prohibited.
+
+Q: How can I print documents on campus? 
+A: Printing services are available in the library and computer labs for a nominal charge per page.
+
+Q: Is there a lost and found section? 
+A: Yes, lost items are kept at the Security Office at the main gate.
+
+Q: Can I work part-time on campus? 
+A: Limited Teaching Assistant (TA) and Research Assistant (RA) positions are available for senior students with high GPA.
+
+Q: What is the dress code? 
+A: Students are expected to dress modestly and professionally. Shorts and sleeveless shirts are often not permitted in academic blocks.
+
+Q: How do I access online journals? 
+A: You can access IEEE, JSTOR, and other databases through the university library's digital portal (VPN may be required off-campus).
+
+Q: What is the procedure for a sick leave? 
+A: Email your instructor and submit a medical certificate to the coordination office if missing an exam or major assessment.
+
+Q: Are there counseling services? 
+A: Yes, the university provides free, confidential mental health counseling services at the Student Support Center.
+
+Q: How do I calculate my SGPA? 
+A: SGPA is the sum of (Course Credit Hours x Grade Points) divided by Total Credit Hours for the semester.
+
+Q: What is the Dean's List? 
+A: Students with a GPA of 3.5 or higher in a semester are placed on the Dean's List for academic excellence.
+
+Q: Can I double major? 
+A: Double majors are allowed but require approval from both departments and will extend your degree duration.
+
+Q: How do I apply for graduation? 
+A: In your final semester, submit a 'Degree Clearance Form' to the Registrar's office to ensure all requirements are met.
+
+Q: What is the alumni network? 
+A: The alumni network connects graduates for networking and mentorship. You automatically join upon graduation.
+
+Q: Is there an orientation for new students? 
+A: Yes, orientation is held one week before classes begin to introduce new students to campus life and rules.
+
+Q: How do I update my contact information? 
+A: You can update your phone number and address directly through the 'Profile' section of the student portal.
+
+Q: What if I lose my ID card? 
+A: Report it immediately. A duplicate card can be issued for a fee of $10.
+
+Q: Are there prayer rooms? 
+A: Yes, separate prayer rooms for men and women are available in Building C.
+
+Q: Can I access the library on weekends? 
+A: Yes, the library is open on Saturdays from 9 AM to 5 PM, but closed on Sundays.
+
+Q: Is attendance mandatory for labs? 
+A: Yes, 100% attendance is usually required for lab sessions unless a valid medical reason is provided.
